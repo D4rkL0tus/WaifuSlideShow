@@ -20,7 +20,7 @@ import time      # Imports the time library which allows us to specifiy a time i
 
 # This defines the main function at the top where all the code is ran
 def main():
-
+    WaifuAsciiFiles = ['NSFW.txt','SFW.txt','LEWD.txt']
 
 # This calls main if the following is correct and or true
 if __name__ == '__main__':
